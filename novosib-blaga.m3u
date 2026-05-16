@@ -1,0 +1,13 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id=""tvg-name=""group-title=""tvg-logo="",
+
+#EXTINF:-1 tvg-id=""tvg-name="Russia24.ru@SD"group-title=""tvg-logo="🇷🇺 Новости",🇷🇺 Россия 24 (Благовещенск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/blagoveshensk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-name="Russia1.ru@HD"group-title=""tvg-logo="🇷🇺 Регионы",🇷🇺 Россия 1 HD (Благовещенск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/blagoveshensk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-name="Russia1.ru@HD"group-title=""tvg-logo="🇷🇺 Регионы",🇷🇺 Россия 1 HD (Новосибирск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-name="Sibir24.ru@NVS"group-title=""tvg-logo="🇷🇺 Регионы",🇷🇺 Сибирь 24 (Новосибирск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-name="Russia24.ru@SD"group-title=""tvg-logo="🇷🇺 Новости",🇷🇺 Россия 24 (Новосибирск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia24-sd/index.m3u8

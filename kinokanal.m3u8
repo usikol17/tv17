@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 tvg-name=""tvg-id="alphaCinema.ru@HD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 alpha Cinema (1080p)
+https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="alphaFunny.ru@HD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 alpha Funny (1080p)
+https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="alphaMoretime.ru@HD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 alpha Moretime (1080p)
+https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="A2.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Amedia 2
+http://31.148.48.15/A2/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="BRIDGEClassic.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 BRIDGE Classic
+http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Cinema.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Cinema
+http://catchup.videoline.ru/cinema/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Kino24.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Kino 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MGMHD.us@CatcastRU"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 MGM HD [Not 24/7]
+https://v2.catcast.tv/content/44051/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="STARTAir.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 START Air
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="STARTWorld.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 START World
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="VHSTV.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 VHS TV [Not 24/7]
+https://v2.catcast.tv/content/47609/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Detskoekino.ru@International"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Детское кино International [Not 24/7]
+https://autopilot.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Domkino.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Дом Кино
+https://streaming.thestream.cyou/live/44.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="DomkinoPremium.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Дом Кино Премиум HD
+http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Evrokino.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Еврокино
+http://31.148.48.15/Evrokino/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="IllusionPlus.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Иллюзион+
+http://31.148.48.15/Illusion_plus/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="KVNTV.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 КВН ТВ
+http://31.148.48.15/KVN_TV/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Kineko.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Кинеко
+http://194.143.148.28:8080/KINEKO/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Kino1.ru@International"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Кино 1 International [Not 24/7]
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Kino1.ru@International"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Кино 1 International [Not 24/7]
+https://autopilot.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Kinopokaz.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Кинопоказ
+http://31.148.48.15/Kinopokaz/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="KinoTV.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 КИНОТВ
+https://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="LyubimoeIndijskoeKino.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Любимое Индийское Кино [Not 24/7]
+https://v2.catcast.tv/content/41596/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MalderMegahit.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Малдер Мегахит [Not 24/7]
+https://v2.catcast.tv/content/47689/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="NovyiRusskii.ru@HD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Новый Русский (720p)
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="NTVSeries.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 НТВ Сериал
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="NTVHit.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 НТВ Хит
+https://cdn.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Patriot.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Патриот (576i)
+http://catchup.videoline.ru/asvtv/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RusskiyBestseller.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Русский Бестселлер
+http://31.148.48.15/Russkiy_Bestseller/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RusskiyDetektiv.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Русский Детектив
+http://31.148.48.15/Russkiy_Detektiv/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Russkiyroman.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Русский Роман
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CityEdenKinoAsia.ru@HD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Сити Эдем КиноАзия [Not 24/7]
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CityEdenKinoArt.ru@HD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Сити Эдем КиноАрт [Not 24/7]
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CityEdenKinoDetektiv.ru@HD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Сити Эдем КиноДетектив [Not 24/7]
+https://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CityEdenKinoDok.ru@HD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Сити Эдем КиноДок [Not 24/7]
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CityEdenKinoDrama.ru@HD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Сити Эдем КиноДрама [Not 24/7]
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CityEdenKinoKlassika.ru@HD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Сити Эдем КиноКлассика [Not 24/7]
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CityEdenKinoKomediya.ru@HD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Сити Эдем КиноКомедия [Not 24/7]
+https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CityEdenKinoMistika.ru@HD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Сити Эдем КиноМистика [Not 24/7]
+https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CityEdenKinoSemya.ru@HD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Сити Эдем КиноСемья [Not 24/7]
+https://v2.catcast.tv/content/38128/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CityEdenKinoFantastika.ru@HD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Сити Эдем КиноФантастика [Not 24/7]
+https://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CityEdenKinoAction.ru@HD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Сити Эдем КиноЭкшен [Not 24/7]
+https://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CityEdenTeleNovella.ru@HD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Сити Эдем ТелеНовелла [Not 24/7]
+https://cityeden.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Smotrim100Klassika.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Смотрим 100% Классика
+https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+#EXTINF:-1 tvg-name=""tvg-id="Smotrim100Lyubov.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Смотрим 100% Любовь
+https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+#EXTINF:-1 tvg-name=""tvg-id="Smotrim100Muzhskoe.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Смотрим 100% Мужское
+https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
+#EXTINF:-1 tvg-name=""tvg-id="SmotrimChestnyyDetektiv.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Смотрим Честный Детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="TvoyeTVYumor.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Твое ТВ Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="FeniksplusKino.ru@SD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 Феникс плюс Кино
+http://31.148.48.15/Feniks_plus_kino/index.m3u8

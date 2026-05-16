@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-name=""tvg-id="Ani.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 Ani
+http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Ani.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 Ani
+http://31.148.48.15/Ani/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="STSkids.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 STS kids
+http://31.148.48.15/STS_Kids_HD/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="STSLove.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 STS Love
+http://194.143.148.28:8080/CTC_LOVE/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Carousel.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 Карусель
+https://streaming.televizor-24-tochka.ru/live/11.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Carousel.ru@HD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 Карусель
+http://31.148.48.15/Karusel_HD/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Carousel.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 Карусель (540p) [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CarouselInternational.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 Карусель International
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Mama.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 Мама
+http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Mult.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 Мульт
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Multimuzyka.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 Мульт и музыка
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Multimania.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 Мультимания (576p)
+https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Multimania.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 Мультимания ТВ
+http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RadostMoya.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 Радость моя
+https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Ryzhiy.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 Рыжий
+http://31.148.48.15/Rizhiy/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="SmileTV.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 Смайл ТВ
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Smotrim100Detskoe.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 Смотрим 100% Детское
+https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
+#EXTINF:-1 tvg-name=""tvg-id="Solnce.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 Солнце
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Solnce.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 Солнце [Geo-blocked]
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="STS.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 СТС
+https://streaming.televizor-24-tochka.ru/live/16.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="STS.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 СТС (540p) [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="STSLove.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 СТС Love
+http://31.148.48.15/STS_Love/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="STSLove.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 СТС Love (540p) [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 tvg-name="СТС Ⓢ"tvg-id="STS.ru"tvg-logo="https://i.imgur.com/y9bpqUD.png"group-title="🇷🇺 Детям",🇷🇺 СТС Ⓢ
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Tamyr.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 Тамыр (Уфа)
+https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Tamyr.ru@SD"tvg-logo=""group-title="🇷🇺 Детям",🇷🇺 Тамыр (Уфа) (576p)
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8

@@ -1,0 +1,217 @@
+#EXTM3U
+#EXTINF:-1 tvg-name=""tvg-id="Channel12.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 12 канал
+https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Channel12.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 12 канал (1080p)
+https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="360.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="360.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 360° (1080p)
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="360.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 360° (720p)
+https://video1.in-news.ru/360/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Channel5.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 5 Канал
+https://streaming.televizor-24-tochka.ru/live/8.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RTRPlaneta.ru@Europe"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Planeta-RTR
+https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
+#EXTINF:-1 tvg-name=""tvg-id="RTRPlaneta.ru@USA"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Planeta-RTR
+https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a
+#EXTINF:-1 tvg-name=""tvg-id="TVBRICSRussian.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 TV BRICS Russian (1080p)
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="AISTTV.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Аист ТВ
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Aris24.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Арис 24 (720p) [Not 24/7]
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 tvg-name="Арктика 24 Ⓥ"tvg-id="Arktika24.ru"tvg-logo="https://i.imgur.com/CL0G88u.png"group-title="🇷🇺 Регионы",🇷🇺 Арктика 24 Ⓥ
+https://vk.com/video-213370539_456239018
+#EXTINF:-1 tvg-name=""tvg-id="ZaTV.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 За!ТВ
+https://streaming.televizor-24-tochka.ru/live/25.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Zvezda.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Звезда
+https://streaming.televizor-24-tochka.ru/live/21.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Zvezda.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Звезда
+https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Zvezda.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Звезда (1080p) [Not 24/7]
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Zvezda.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Звезда [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="ZooTV.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Зоо ТВ
+http://31.148.48.15/Zoo_TV/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Mir.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 МИР
+https://streaming.televizor-24-tochka.ru/live/22.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Luch.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Луч
+https://mow-9-ll.facecast.io:8443/hls_re/c631505e4fd6d14665c0.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Mir.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Мир (1080p) [Not 24/7]
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Mir.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Мир [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Moskva24.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Москва 24
+https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+#EXTINF:-1 tvg-name="Москва 24"tvg-id="Moskva24.ru"tvg-logo="https://i.imgur.com/gXbUMVy.png"group-title="🇷🇺 Регионы",🇷🇺 Москва 24
+https://player.smotrim.ru/iframe/stream/live_id/1661
+#EXTINF:-1 tvg-name=""tvg-id="NovyVek.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Новый Век
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="NTV.ru@HD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 НТВ
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="NTV.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 НТВ
+https://streaming.televizor-24-tochka.ru/live/7.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="NTV.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 НТВ (540p) [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 tvg-name="НТВ Ⓢ"tvg-id="NTV.ru"tvg-logo="https://i.imgur.com/DtQX5P2.png"group-title="🇷🇺 Регионы",🇷🇺 НТВ Ⓢ
+http://ott-cdn.ucom.am/s17/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="OSN.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 ОСН
+http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="OTR.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 ОТР
+https://streaming.televizor-24-tochka.ru/live/12.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="OTR.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 ОТР [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="ChannelOne.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Первый канал
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-name=""tvg-id="ChannelOne.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Первый канал
+https://streaming.televizor-24-tochka.ru/live/4.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="ChannelOne.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Первый канал [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="ChannelOne.ru@Europe"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Первый канал Европа
+https://streaming.thestream.cyou/live/210.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Channel5.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Пятый Канал (540p) [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RENTV.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Рен ТВ
+https://streaming.televizor-24-tochka.ru/live/14.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RENTV.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 РЕН ТВ (540p) [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RENTVInternational.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 РЕН ТВ International
+https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Russia1.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Russia1.ru@SD"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Россия 1
+https://streaming.televizor-24-tochka.ru/live/5.m3u8
+#EXTINF:-1 tvg-name="Россия 1"tvg-id="Russia1.ru"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png"group-title="🇷🇺 Регионы",🇷🇺 Россия 1
+https://player.smotrim.ru/iframe/stream/live_id/2961
+#EXTINF:-1 tvg-name=""tvg-id="RTRPlaneta.ru@CIS"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Россия-РТР
+https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
+#EXTINF:-1 tvg-name=""tvg-id="RTRPlaneta.ru@Asia"tvg-logo=""group-title="🇷🇺 Регионы",🇷🇺 Россия-РТР
+https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
+#EXTINF:-1 tvg-name="РТР-Планета Ⓢ"tvg-id="RTRPlaneta.ru"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/RTR_Planeta_Europe.png"group-title="🇷🇺 Регионы",🇷🇺 РТР-Планета Ⓢ
+https://player.smotrim.ru/iframe/stream/live_id/63251
+#EXTINF:-1 tvg-name="RT Д Русский Ⓖ"tvg-id="RTD.ru"tvg-logo="https://i.imgur.com/v5fpEBo.png"group-title="🇷🇺 Разное",🇷🇺 RT Д Русский Ⓖ
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="SGDF24RU.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 SGDF24.RU
+https://cdnfs.teonvi.com/sgdf/index.fmp4.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="TVPRO.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 TV PRO
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="UniverTV.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 Univer TV (1080p)
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="UniverTV.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 Univer TV (1080p) [Not 24/7]
+https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="AutoPlus.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 Авто Плюс
+http://31.148.48.15/Avto_Plus/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Vremya.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 Время
+http://31.148.48.15/Vremya/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="ZhivayaPlaneta.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 Живая Планета
+http://31.148.48.15/Zhivaya_Planeta/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="ZvezdaPlus.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
+#EXTINF:-1 tvg-name="Карусель Ⓢ"tvg-id="Karusel.ru"tvg-logo="https://i.imgur.com/4fFMlVq.png"group-title="🇷🇺 Разное",🇷🇺 Карусель Ⓢ
+https://streaming102.interskytech.com/live/232.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RedLine.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 Красная линия
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RedLine.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 Красная линия
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="UniverTV.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 КФУ ТВ (1080p) [Not 24/7]
+https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="NTVLaw.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 НТВ Право
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Pobeda.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 Победа
+https://streaming.thestream.cyou/live/43.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Prima.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 Прима (1080p) [Geo-blocked]
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Prima.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 Прима (1080p)
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Prodvizhenie.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 Продвижение
+https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Prosveshchenie.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 Просвещение (540p) [Geo-blocked]
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RZDTV.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 РЖД ТВ (1080p) [Geo-blocked]
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Смотрим - Мелодрамы"tvg-id=""tvg-logo="https://cdn-st1.smotrim.ru/vh/pictures/r/456/967/6.png"group-title="🇷🇺 Разное",🇷🇺 Смотрим - Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Смотрим - Тайны"tvg-id=""tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/r/456/396/2.png"group-title="🇷🇺 Разное",🇷🇺 Смотрим - Тайны
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="STSInternational.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 СТС International
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="StudiyaFakt.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 Студия Факт
+https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Subbota.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 Суббота!
+http://hls2.hd-tv.club/2_super/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Subbota.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 Суббота! (450p) [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="TVCentr.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 ТВ Центр
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="TVCentr.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 ТВ Центр
+https://streaming.televizor-24-tochka.ru/live/13.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="TVCentr.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 ТВ Центр [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 tvg-name="ТВ Центр Ⓢ"tvg-id="TVCentr.ru"tvg-logo="https://i.imgur.com/ZP0D6Rd.png"group-title="🇷🇺 Разное",🇷🇺 ТВ Центр Ⓢ
+http://ott-cdn.ucom.am/s54/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="TVK.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 ТВК 24 (576p)
+https://air.tvk6.ru/tvk24/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Unikum.ru@SD"tvg-logo=""group-title="🇷🇺 Разное",🇷🇺 Уникум
+http://31.148.48.15/Detskiy/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Pro100TV.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 Pro100TV
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="India.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 Индия
+http://31.148.48.15/Zee_TV_Russia/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PeretzInternational.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 Перец International
+https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Poehali.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 Поехали!
+http://31.148.48.15/Poehali/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Friday.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 Пятница!
+https://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Friday.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 Пятница!
+https://streaming.televizor-24-tochka.ru/live/19.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Friday.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 Пятница! (540p) [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="FridayInternational.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 Пятница! International
+https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Smotrim100Prazdnik.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 Смотрим 100% Праздник
+https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
+#EXTINF:-1 tvg-name=""tvg-id="TV3.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 ТВ3
+https://streaming.televizor-24-tochka.ru/live/18.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="TV3.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 ТВ-3 (540p) [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="TvoeTV.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 Твое TV HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="TNT.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 ТНТ
+https://streaming.televizor-24-tochka.ru/live/23.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="TNT.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 ТНТ (540p) [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="TNTInternational.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 ТНТ International
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+#EXTINF:-1 tvg-name="ТНТ Ⓢ"tvg-id="TNT.ru"tvg-logo="https://i.imgur.com/1WqIPOB.png"group-title="🇷🇺 Развлечения",🇷🇺 ТНТ Ⓢ
+http://ott-cdn.ucom.am/s19/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="TNT4.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 ТНТ4 [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="TNT4International.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 ТНТ4 International
+https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Che.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 Че!
+http://31.148.48.15/Che/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Che.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 Че! (540p) [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="U.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 Ю
+https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="U.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 Ю
+https://cdn-01.bonus-tv.ru/u/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="U.ru@SD"tvg-logo=""group-title="🇷🇺 Развлечения",🇷🇺 Ю [Geo-blocked]
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:-1 tvg-name="Ю Ⓢ"tvg-id="U.ru"tvg-logo="https://upload.wikimedia.org/wikipedia/ru/a/ac/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%AE%C2%BB_%28%D1%81_3_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2018_%D0%B3%D0%BE%D0%B4%D0%B0%29.png"group-title="🇷🇺 Развлечения",🇷🇺 Ю Ⓢ
+https://strm.yandex.ru/kal/utv/utv0.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Izvestia.ru@SD"tvg-logo=""group-title="🇷🇺 Новости",🇷🇺 Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Mir24.ru@SD"tvg-logo=""group-title="🇷🇺 Новости",🇷🇺 Мир 24 (1080p)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Legendarnyy24.ru@SD"tvg-logo=""group-title="🇷🇺 Новости",🇷🇺 Легендарный 24
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Russia24.ru@SD"tvg-logo=""group-title="🇷🇺 Новости",🇷🇺 Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Russia24.ru@SD"tvg-logo=""group-title="🇷🇺 Новости",🇷🇺 Россия 24
+https://streaming.televizor-24-tochka.ru/live/10.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Tolk.ru@HD"tvg-logo=""group-title="🇷🇺 Новости",🇷🇺 Толк HD
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8

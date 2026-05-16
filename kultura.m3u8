@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-name=""tvg-id="FoodTime.ru@SD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 FoodTime
+http://31.148.48.15/Eda_Premium_HD/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="KulinarTV.ru@SD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 Kulinar TV
+https://api.alpaca.t62a.com/hls/9110/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RTGTV.ru@SD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 RTG TV
+http://194.143.148.28:8080/RTG_HD/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Domashniy.ru@SD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 Домашний
+https://streaming.televizor-24-tochka.ru/live/17.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Domashniy.ru@SD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 Домашний (540p) [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="DomashniyInternational.ru@SD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 Домашний International
+https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
+#EXTINF:-1 tvg-name="Домашний Ⓢ"tvg-id="Domashniy.ru"tvg-logo="https://i.imgur.com/e8wlMIt.png"group-title="🇷🇺 Культура",🇷🇺 Домашний Ⓢ
+http://ott-cdn.ucom.am/s88/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Zhivi.ru@SD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 ЖИВИ!
+http://31.148.48.15/Zhivi/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Konniymir.ru@SD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 Конный Мир
+https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RussiaK.ru@SD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 Культура (540p) [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="KukhnyaTV.ru@SD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 Кухня ТВ
+http://31.148.48.15/Kuhnya_TV/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MoyaPlaneta.ru@SD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 Моя Планета
+http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="NTVMir.ru@SD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 НТВ Мир
+https://streaming.thestream.cyou/live/213.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="NTVStyle.ru@SD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 НТВ Стиль
+https://cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="OtkritiymirZdorove.ru@SD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 Открытый мир. Здоровье
+https://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RussiaK.ru@SD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 Россия К
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RussiaK.ru@SD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 Россия К
+https://streaming.televizor-24-tochka.ru/live/9.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RussiaK.ru@SD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 Россия К [Geo-blocked]
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 tvg-name="Россия-Культура Ⓢ"tvg-id="RussiaK.ru"tvg-logo="https://i.imgur.com/S12gaLc.png"group-title="🇷🇺 Культура",🇷🇺 Россия-Культура Ⓢ
+https://player.smotrim.ru/iframe/stream/live_id/19201
+#EXTINF:-1 tvg-name=""tvg-id="CityEdenMedZdrav.ru@HD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 Сити Эдем МедЗдрав [Not 24/7]
+https://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CityEdenReceptyGurmana.ru@HD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 Сити Эдем Рецепты Гурмана [Not 24/7]
+https://cityeden.catcast.tv/content/47516/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Teatr.ru@SD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 Театр
+http://31.148.48.15/Sochi_HD/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Telecafe.ru@SD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 Телекафе
+http://31.148.48.15/Telekafe/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Teleputeshestviya.ru@SD"tvg-logo=""group-title="🇷🇺 Культура",🇷🇺 Телепутешествия
+http://31.148.48.15/Teleputeshestviya/index.m3u8

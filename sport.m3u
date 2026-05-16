@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-name=""tvg-id="KHLPrime.ru@SD"tvg-logo=""group-title="🇷🇺 Спорт",🇷🇺 KHL Prime
+http://194.143.148.28:8080/KHL_HD/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MMATVcom.ru@SD"tvg-logo=""group-title="🇷🇺 Спорт",🇷🇺 MMA-TV.com
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="VitalDrive.ru@HD"tvg-logo=""group-title="🇷🇺 Спорт",🇷🇺 VITAL Drive [Not 24/7]
+https://autopilot.catcast.tv/content/37909/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="VitalDrive.ru@HD"tvg-logo=""group-title="🇷🇺 Спорт",🇷🇺 VITAL Drive [Not 24/7]
+https://tv.a21network.ru/stream/37909/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="AstrahanRuSport.ru@SD"tvg-logo=""group-title="🇷🇺 Спорт",🇷🇺 Астрахань.Ru Sport (720p)
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 tvg-name="Матч ТВ Ⓢ"tvg-id="Match.ru"tvg-logo="https://i.imgur.com/kFdooR4.png"group-title="🇷🇺 Спорт",🇷🇺 Матч ТВ Ⓢ
+https://streaming.televizor-24-tochka.ru/live/6.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MatchArena.ru@SD"tvg-logo=""group-title="🇷🇺 Спорт",🇷🇺 Матч! Арена
+http://194.143.148.28:8080/MatchArena/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Планета Ⓢ"tvg-id="MatchPlaneta.ru"tvg-logo="https://i.imgur.com/vhyMb9D.png"group-title="🇷🇺 Спорт",🇷🇺 Матч! Планета Ⓢ
+http://212.0.211.102:9999/play/a00b/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MatchStrana.ru@HD"tvg-logo=""group-title="🇷🇺 Спорт",🇷🇺 Матч! Страна
+http://31.148.48.15/Match_Strana/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="StartTriumf.ru@SD"tvg-logo=""group-title="🇷🇺 Спорт",🇷🇺 СТАРТ Триумф
+https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Football.ru@SD"tvg-logo=""group-title="🇷🇺 Спорт",🇷🇺 Футбол
+http://31.148.48.15/Futbol_HD/index.m3u8

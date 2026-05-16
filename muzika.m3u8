@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-name=""tvg-id="15PlusMusic.ru@HD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 15+ Music (1080p)
+https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="A1.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Amedia 1
+http://31.148.48.15/A1/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="BRIDGE.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 BRIDGE
+http://31.148.48.15/Bridge_TV/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="BRIDGEDeluxe.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 BRIDGE Deluxe
+http://31.148.48.15/Bridge_TV_HD/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="BRIDGEHits.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 BRIDGE Hits
+http://31.148.48.15/Bridge_TV_Dance/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="DanceHits80.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="EuropaPlusTV.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Europa Plus TV
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="FonMusic.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 FON Music
+https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v2a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
+#EXTINF:-1 tvg-name=""tvg-id="FonMusic.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 FON Music
+https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RUTV.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 RU TV
+https://hls-03-video.webcaramba.com/rutv/live.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="SONGTVRussia.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 SONGTV Russia
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="VIVARussia.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 VIVA Russia (1080p)
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="ZharPtitsa.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Жар Птица (404p) [Geo-blocked]
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MaturTV.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Матур ТВ (1080p)
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MuzSoyuz.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Муз союз (576p)
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MuzTV.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Муз ТВ [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MuzTV.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 МузТВ
+https://streaming.televizor-24-tochka.ru/live/20.m3u8
+#EXTINF:-1 tvg-name="Муз-ТВ Ⓢ"tvg-id="MuzTV.ru"tvg-logo="https://i.imgur.com/Ml3qqOF.png"group-title="🇷🇺 Музыка",🇷🇺 Муз-ТВ Ⓢ
+https://streaming102.interskytech.com/live/618.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Muzyka1.ru@International"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Музыка 1 International [Not 24/7]
+https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Muzyka1.ru@International"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Музыка 2 International [Not 24/7]
+https://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MuzykaKino.ru@International"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Музыка Кино International [Not 24/7]
+https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MuzykaPervogo.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Музыка Первого
+http://31.148.48.15/Muzika_Pervogo/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="o2tv.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 о2тв
+http://31.148.48.15/O2_HD/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RadioHit.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Радио Хит (Орск) (300p)
+http://lova.me/hls/hit.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RadioHit.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Радио Хит (Орск) (720p)
+http://lova.me/hls/hithd.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RadioShanson.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Радио Шансон (720p) [Not 24/7]
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CityEdenMeditationMusic.ru@HD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Сити Эдем Meditation Music [Not 24/7]
+https://cityeden.catcast.tv/content/47410/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CityEdenPlay.ru@HD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Сити Эдем Play Христианский Музыкальный [Not 24/7]
+https://cityeden.catcast.tv/content/34100/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CityEdenBirmaPlay.ru@HD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Сити Эдем Бирма Play [Not 24/7]
+https://cityeden.catcast.tv/content/34364/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CityEdenClassicMusic.ru@HD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Сити Эдем Классическая Музыка [Not 24/7]
+https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CityEdenSirtakiTV.ru@HD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Сити Эдем Сиртаки ТВ [Not 24/7]
+https://cityeden.catcast.tv/content/46421/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="StranaFM.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Страна FM (720p) [Not 24/7]
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="StranaFM.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Страна ФМ
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="ShansonTV.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="ShansonTV.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Шансон ТВ (512p) [Geo-blocked]
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="ShansonTV.ru@SD"tvg-logo=""group-title="🇷🇺 Музыка",🇷🇺 Шансон ТВ (576p) [Geo-blocked]
+https://uiptv.do.am/1ufc/602079679/playlist.m3u8
