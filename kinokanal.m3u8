@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 tvg-name=""tvg-id="alphaCinema.ru@HD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 alpha Cinema (1080p)
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="alphaFunny.ru@HD"tvg-logo=""group-title="🇷🇺 Кино",🇷🇺 alpha Funny (1080p)
