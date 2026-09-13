@@ -1,13 +1,31 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id=""tvg-name=""group-title=""tvg-logo="",
 
-#EXTINF:-1 tvg-id=""tvg-name="Russia24.ru@SD"group-title=""tvg-logo="🇷🇺 Новости",🇷🇺 Россия 24 (Благовещенск)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/blagoveshensk/russia24-sd/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="Russia1.ru@HD"group-title=""tvg-logo="🇷🇺 Регионы",🇷🇺 Россия 1 HD (Благовещенск)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/blagoveshensk/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="Russia1.ru@HD"group-title=""tvg-logo="🇷🇺 Регионы",🇷🇺 Россия 1 HD (Новосибирск)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="Sibir24.ru@NVS"group-title=""tvg-logo="🇷🇺 Регионы",🇷🇺 Сибирь 24 (Новосибирск)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="Russia24.ru@SD"group-title=""tvg-logo="🇷🇺 Новости",🇷🇺 Россия 24 (Новосибирск)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="146" tvg-logo="http://epg.one/img2/146.png" group-title="новости" ,Первый канал +0 
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="3025" tvg-logo="http://epg.one/img2/3025.png" group-title="новости" ,Первый канал +4
+http://tv.tuva.ru/ort/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-logo="http://epg.one/img2/20.png" group-title="новости" ,Первый канал +6
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
+#EXTINF:-1 tvg-id="3027" tvg-logo="http://epg.one/img2/3027.png" group-title="новости" ,Первый канал +8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
+#EXTINF:-1 tvg-id="711" tvg-logo="http://epg.one/img2/711.png" group-title="новости" ,Россия 1 +0 
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="711" tvg-logo="http://epg.one/img2/711.png" group-title="новости" ,Россия 1 +2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+#EXTINF:-1 tvg-id="3001" tvg-logo="http://epg.one/img2/3001.png" group-title="новости" ,Россия 1 +4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
+#EXTINF:-1 tvg-id="3002" tvg-logo="http://epg.one/img2/3002.png" group-title="новости" ,Россия 1 +6
+#EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
+#EXTINF:-1 tvg-id="3036" tvg-logo="http://epg.one/img2/3036.png" group-title="другие" ,Звезда +7
+#EXTVLCOPT:http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+#EXTINF:-1 tvg-id="405" tvg-logo="http://epg.one/img2/405.png" group-title="другие" ,Звезда +2
+#EXTVLCOPT:http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
+#EXTINF:-1 tvg-id="405" tvg-logo="http://epg.one/img2/405.png" group-title="другие" ,Звезда HD
+#EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 tvg-id="3036" tvg-logo="http://epg.one/img2/3036.png" group-title="другие" ,Звезда +7 (Владивосток)
+https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=IOkUTZHoPSqNn0IukRgYNw&e=2070623511&scheme=https
