@@ -29,3 +29,15 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1 tvg-id="3036" tvg-logo="http://epg.one/img2/3036.png" group-title="другие" ,Звезда +7 (Владивосток)
 https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=IOkUTZHoPSqNn0IukRgYNw&e=2070623511&scheme=https
+#EXTINF:-1 tvg-id="2078" tvg-logo="http://epg.one/img2/2078.png" group-title="HD" ,Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="3019" tvg-logo="http://epg.one/img2/3019.png" group-title="другие" ,Мир +2
+#EXTVLCOPT:http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
+#EXTINF:-1 tvg-id="3020" tvg-logo="http://epg.one/img2/3020.png" group-title="другие" ,Мир +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="3021" tvg-logo="http://epg.one/img2/3021.png" group-title="другие" ,Мир +7
+#EXTVLCOPT:http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer"
+ttp://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+#EXTINF:-1 tvg-id="726" tvg-logo="http://epg.one/img2/726.png" group-title="HD" ,Мир HD
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
